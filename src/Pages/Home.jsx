@@ -4,6 +4,7 @@ import About from './About'
 import Contact from './Contact'
 import Work from './Work'
 import Experience from './Experience'
+import resume from '../assets/doc/Resume.pdf'
 
 const Home = () => {
   const scrollToSection = (sectionId) => {
@@ -23,7 +24,7 @@ const Home = () => {
         </div>
         <div id="home-button">
           <button onClick={() => scrollToSection('contact-container')}>Contact With Me <i className="ri-arrow-right-up-line"></i></button>
-          <button onClick={() => window.open("src/assets/doc/Resume.pdf", '_blank')}>Resume <i className="ri-article-line"></i></button>
+          <button onClick={() => window.open(resume, '_blank')}>Resume <i className="ri-article-line"></i></button>
         </div>
       </div>
       <About />
