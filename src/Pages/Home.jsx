@@ -23,7 +23,7 @@ const Home = () => {
         </div>
         <div id="home-button">
           <button onClick={() => scrollToSection('contact-container')}>Contact With Me <i className="ri-arrow-right-up-line"></i></button>
-          <button onClick={() => window.open('/src/assets/Resume.pdf', '_blank')}>Resume <i className="ri-article-line"></i></button>
+          <button onClick={() => window.open("src/assets/doc/Resume.pdf", '_blank')}>Resume <i className="ri-article-line"></i></button>
         </div>
       </div>
       <About />
