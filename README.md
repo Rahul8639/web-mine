@@ -1,8 +1,38 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with React and Vite. This website showcases my work, experience, and skills in an elegant and interactive way.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Modern and clean design
+- Responsive layout
+- Smooth animations and transitions
+- Dynamic title changes
+- Custom scrollbar
+- Interactive project showcase
+- Experience timeline
+- Contact section
+
+## Technologies Used
+
+- React
+- Vite
+- GSAP (GreenSock Animation Platform)
+- CSS3
+- JavaScript
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Author
+
+Rahul Prasad
