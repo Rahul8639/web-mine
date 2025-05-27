@@ -16,7 +16,7 @@ const Home = () => {
     <>
       <div id="home-container">
         <div id="home-content">
-          <h1>I'm <span id='home-name'>Rahul,</span> <br /> a <span>good</span> <span id='home-student'>Student</span> & <span id='home-developer'>Developer</span> <br /> Based in India.</h1>
+          <h1>I'm <span id='home-name'>Rahul,</span> <br /> a <span>good</span> <span id='home-student'>Designer</span> & <span id='home-developer'>Developer</span> <br /> Based in India.</h1>
           <div id='home-content-paragraph'>
             <p>Rahul loves to code and build cool stuff—except when the bugs start acting like they<br /> pay rent. He occasionally writes code that works on the first try <span id='cut-through'>a miracle</span> by his brain <span id='cut-through'>chatGPT</span>, and<br /> firmly believes that 'console.log' is a valid debugging strategy.</p>
             <p>Welcome to his chaotic masterpiece of creativity!</p>
