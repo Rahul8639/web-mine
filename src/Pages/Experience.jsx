@@ -317,7 +317,7 @@ const Experience = () => {
         </div>
       </div>
       <div id="end-text">
-          <h1>This is the part where you decide whether to contact me or pretend you never saw this.</h1>
+          <h1>This is the part where you decide whether to contact me or pretend you never know me.</h1>
         </div>
     </div>
   )
